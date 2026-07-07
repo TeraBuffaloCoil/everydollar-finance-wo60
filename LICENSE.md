@@ -1,4 +1,4 @@
-# 
+# EveryDollar helps you create a budget, track spending, and take control of your money with Dave Ramsey’s zero-based budgeting method.
 
 
 
